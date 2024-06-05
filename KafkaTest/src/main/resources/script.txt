@@ -1,0 +1,2 @@
+建立 topic
+.\bin\windows\kafka-topics.bat --bootstrap-server localhost:9092 --create --topic test-topic
